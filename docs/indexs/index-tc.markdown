@@ -61,9 +61,9 @@ MarcosMang（一下簡稱"Mang"）在為用戶提供服務時,會處理用戶的
 
 <br>
 <br>
-[CN]({{ site.url }}/cn)
-[JP]({{ site.url }}/jp)
-[EN]({{ site.url }}/)
+[CN]({{ site.url }}/wordsInInfo/cn)
+[JP]({{ site.url }}/wordsInInfo/jp)
+[EN]({{ site.url }}/wordsInInfo)
 
 <!--<h3 id="notice">4. 通知
 </h3>

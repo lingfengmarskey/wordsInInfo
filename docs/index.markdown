@@ -31,7 +31,7 @@ You can then view the wrong questions. Or through **polling exercises** for spec
 #### 2. 练习开始
 -->
 
-<h3 id="privacy">2. 隐私政策
+<h3 id="privacy">2. Privacy Policy
 </h3>
 
 MarcosMang (hereinafter referred to as "Mang") will process users' personal information when providing services to users. Therefore, by this personal information protection policy, we will establish and implement a personal information protection management system, and all staff engaged in business activities will work together to achieve proper processing of personal information.

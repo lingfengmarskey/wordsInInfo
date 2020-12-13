@@ -62,9 +62,9 @@ MarcosMang（以下「Mang」という）は、ユーザーにサービスを提
 <br>
 <br>
 
-[EN]({{ site.url }}/wordsInInfo)
+[EN]({{ site.url }}/wordsInInfo/)
 [TC]({{ site.url }}/wordsInInfo/tc)
-[JP]({{ site.url }}/wordsInInfo/jp)
+[CN]({{ site.url }}/wordsInInfo/cn)
 
 <!--<h3 id="notice">4. 通知
 </h3>

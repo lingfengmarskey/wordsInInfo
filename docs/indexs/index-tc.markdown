@@ -3,7 +3,7 @@ layout: home
 permalink: /tc
 ---
 
-讓串珠更快樂
+幫你記憶得更輕鬆,更牢固.
 
 <!--#### 快速索引
 
@@ -16,15 +16,11 @@ permalink: /tc
 <h3 id="summary">1. 概要
 </h3>
 
-該產品的創作初衷是為串珠手工藝人提供設計工具.<br>
-讓手藝人在何時何地都能方便的完成創作,不錯過任何時間的奇思妙想.<br>
-<br>
-可以自定義圖紙類型,如錯位格,十字格,點狀格等,可設置圖紙尺寸等.<br>
-可選擇豐富的顏色.<br>
-創作中,可以將設計保存至本地.<br>
-可隨意編輯.擦除,撤銷路徑恢復等功能.<br>
-<br>
-隨時隨地完成你的設計,讓創作更快樂.
+該產品的創作初衷是幫助用戶更好的記憶那些容易被忘記的,並且比較重要的事情.<br>
+比如考試中容易錯的單詞或試題, 駕考知識, 數學公式等等。 <br>
+用戶可以手動創建空筆記本,在其中添加具體需要記憶的內容; 或者通過csv格式文件批量導入筆記本內容。 <br>
+在**練習**中,用戶可以對內容的記憶效果進行測試.忘記的情況下,會被自動標記.。 <br>
+隨後可以在錯題中進行查看. 或者通過**輪詢練習**進行錯題針對性練習。
 
 <!--
 <h3 id="guide">使用教程
@@ -56,18 +52,18 @@ MarcosMang（一下簡稱"Mang"）在為用戶提供服務時,會處理用戶的
 #### 2.3 遵守法律法規，國家準則和其他規範
 我們將遵守有關處理個人信息，國家準則和附屬組織準則的法律和相關法律。
 
-第一版於2021年05月30日制定
+第一版於2020年12月11日制定
 
 <h3 id="contact">3. 聯繫我們
 </h3>
 
-歡迎聯繫我們: <a href="mailto:lingfengmarskey@gmail.com?subject=Beaders諮詢">發送郵件</a>
+歡迎聯繫我們: <a href="mailto:lingfengmarskey@gmail.com?subject=WordsIn諮詢">發送郵件</a>
 
 <br>
 <br>
-[CN]({{ site.url }}/BeadersInfo/cn)
-[JP]({{ site.url }}/BeadersInfo/jp)
-[EN]({{ site.url }}/BeadersInfo/)
+[CN]({{ site.url }}/wordsInInfo/cn)
+[JP]({{ site.url }}/wordsInInfo/jp)
+[EN]({{ site.url }}/wordsInInfo/)
 
 <!--<h3 id="notice">4. 通知
 </h3>

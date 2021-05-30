@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Make beading happier
+Make Remembering Easier and Stronger
 
 <!--#### 快速索引
 
@@ -14,15 +14,11 @@ Make beading happier
 
 <h3 id="summary">1. Summary
 </h3>
-The original intention of this App was to provide design tools for beaded craftsmen.
-Let the craftsman complete the creation conveniently at any time and anywhere, without missing any time of whimsical ideas.
-
-You can customize the drawing type, such as dislocation grid, cross grid, dot grid, etc., and set the drawing size.
-Rich colors can be selected.
-During creation, you can save the design locally.
-It can be edited at will, erased, undo path restoration and other functions.
-
-Complete your design anytime, anywhere, making creation happier.
+The original intention of the product is to help users better remember those easily forgotten and more important things.<br>
+For example, words or test questions that are easy to be wrong in the exam, driving test knowledge, mathematical formulas, etc. <br>
+Users can manually create empty notebooks and add specific content that needs to be memorized, or batch import notebook content through CSV format files. <br>
+In **exercise**, users can test the memory effect of the content. If they forget, they will be automatically marked. <br>
+You can then view the wrong questions. Or through **polling exercises** for specific exercises.
 
 <!--
 <h3 id="guide">使用教程
@@ -54,19 +50,18 @@ Apart from the above, the user's personal information will not be provided to an
 #### Compliance with laws and regulations, national guidelines, and other norms
 We will comply with the laws and related laws regarding the handling of personal information, national guid.
 
-The first edition was formulated on May 30, 2021.
 
 <h3 id="contact">3. Contact
 </h3>
 
-Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=Beaders Advisory">send E-mail</a>
+Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=WordsIn Advisory">send E-mail</a>
 
 <br>
 <br>
 
-[CN]({{ site.url }}/BeadersInfo/cn)
-[TC]({{ site.url }}/BeadersInfo/tc)
-[JP]({{ site.url }}/BeadersInfo/jp)
+[CN]({{ site.url }}/wordsInInfo/cn)
+[TC]({{ site.url }}/wordsInInfo/tc)
+[JP]({{ site.url }}/wordsInInfo/jp)
 
 <!--<h3 id="notice">4. 通知
 </h3>

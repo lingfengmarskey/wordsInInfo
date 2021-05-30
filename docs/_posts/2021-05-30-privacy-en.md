@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Privacy Policy"
-date:   2020-12-12 17:21:01 +0900
+title:  "Privacy Policy(WordsIn)"
+date:   2021-05-30 15:30:00 +0900
 categories: privacy
 permalink: /privacy/en
 ---
-# Privacy Policy
+# Privacy Policy(WordsIn)
 
 MarcosMang (hereinafter referred to as "Mang") will process users' personal information when providing services to users. Therefore, by this personal information protection policy, we will establish and implement a personal information protection management system, and all staff engaged in business activities will work together to achieve proper processing of personal information.
 

@@ -62,9 +62,9 @@ MarcosMang（一下简称"Mang"）在为用户提供服务时,会处理用户的
 <br>
 <br>
 
-[繁体]({{ site.url }}/wordsInInfo/tc)
-[日文]({{ site.url }}/wordsInInfo/jp)
-[英文]({{ site.url }}/wordsInInfo/)
+[繁体]({{ site.url }}/tc)
+[日文]({{ site.url }}/jp)
+[英文]({{ site.url }}/)
 
 <!--<h3 id="notice">4. 通知
 </h3>

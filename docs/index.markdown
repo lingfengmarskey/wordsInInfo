@@ -59,9 +59,9 @@ Welcome to contact us: <a href="mailto:lingfengmarskey@gmail.com?subject=WordsIn
 <br>
 <br>
 
-[CN]({{ site.url }}/wordsInInfo/cn)
-[TC]({{ site.url }}/wordsInInfo/tc)
-[JP]({{ site.url }}/wordsInInfo/jp)
+[CN]({{ site.url }}/cn)
+[TC]({{ site.url }}/tc)
+[JP]({{ site.url }}/jp)
 
 <!--<h3 id="notice">4. 通知
 </h3>

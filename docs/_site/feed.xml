@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-28T19:51:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">WordsIn App Info</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">`WrodsIn`使用参考</title><link href="http://localhost:4000/guide/cn" rel="alternate" type="text/html" title="`WrodsIn`使用参考" /><published>2021-09-28T15:30:00+09:00</published><updated>2021-09-28T15:30:00+09:00</updated><id>http://localhost:4000/guide/guide-cn</id><content type="html" xml:base="http://localhost:4000/guide/cn">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;wrodsin使用参考&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WrodsIn&lt;/code&gt;使用参考&lt;/h1&gt;
+
+&lt;h3 id=&quot;一-关于-wordsin&quot;&gt;一. 关于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WordsIn&lt;/code&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;缘由&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;背单词, 记古诗词,数学物理公式, 试要点等等. 总有一些很容忘记, 又比较重要的内容需要我去记住他, 如果能掌握他们, 日后的考试或者工作面试中, 或许就能帮我更上一个台阶.٩(๑&amp;gt;◡&amp;lt;๑)۶&lt;/p&gt;
+
+&lt;p&gt;然而普通人类的记忆力总是这样,总有一些东西不容易记牢.游戏里的走位可能永远不会忘记, 伸手就来. 而英语单词和过去分词却总也记不住;周五超市市场7:30有打折商品出售我记得清清楚楚, 而驾考试题有些却老是忘记,结果导致多考了几次……&lt;/p&gt;
+
+&lt;p&gt;每天都玩手机的我觉得,应该有个App能帮我记住那些我易忘,而又有理由背下来的东西.比如&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;考试重点&lt;/code&gt;…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;功能要点&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;按笔记题目分类&lt;/li&gt;
+  &lt;li&gt;浏览所有题目以及答案&lt;/li&gt;
+  &lt;li&gt;测试记忆效果,记录错题以及错题次数.&lt;/li&gt;
+  &lt;li&gt;浏览错题,再次记忆错题&lt;/li&gt;
+  &lt;li&gt;笔记手动添加,或者批量导入&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;二-内容添加&quot;&gt;二. 内容添加&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-添加笔记本&quot;&gt;1. 添加笔记本&lt;/h4&gt;
+&lt;h5 id=&quot;11-添加空笔记&quot;&gt;1.1. 添加空笔记&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑&lt;/code&gt;按钮, 进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_1.png&quot; alt=&quot;note_add_1&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;中点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;按钮.弹出&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;新建笔记本选项卡&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_2.png&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;新建笔记本选项卡&lt;/code&gt;中,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;空笔记&lt;/code&gt;.弹出&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文件命名&lt;/code&gt;输入提示框.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_3.png&quot; alt=&quot;note_add_3&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文件命名&lt;/code&gt;输入提示框中,给笔记本命名,然后点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;确认&lt;/code&gt;按钮.进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;数据解析任务列表&lt;/code&gt;页面.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_4.png&quot; alt=&quot;note_add_04&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;数据解析任务列表&lt;/code&gt;页面,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;步骤4&lt;/code&gt;命名的单词本&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;任务&lt;/code&gt;.进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_5.png&quot; alt=&quot;note_add_05&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面.点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;按钮.即可完成&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加空笔记本&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_6.png&quot; alt=&quot;note_add_06&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;返回到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;按钮,从&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;切换为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;普通模式&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_7.png&quot; alt=&quot;note_add_07&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;12-笔记本字段的编辑&quot;&gt;1.2. 笔记本字段的编辑&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;笔记本字段&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;是指笔记中每一个题目都拥有的属性. 例如刚才添加的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;英语单词本&lt;/code&gt;,默认有两个字段&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;key1&lt;/code&gt;和&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;key2&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;当我想要所有题目都有&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;拼写&lt;/code&gt;和&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;解释&lt;/code&gt;这两个属性的时候,就可以直接把他们进行重命名.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面可以从&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记管理&lt;/code&gt;页面的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;下, 点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记名字&lt;/code&gt;进入.(本示例为此)&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;也可以在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加空笔记&lt;/code&gt;过程中,从&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;数据解析任务列表&lt;/code&gt;进入.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_1.png&quot; alt=&quot;note_edit_1&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;编辑&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;字段&lt;/code&gt;名称&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_2.png&quot; alt=&quot;note_edit_2&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_3.png&quot; alt=&quot;note_edit_3&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_4.png&quot; alt=&quot;note_edit_4&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;设置&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;字段&lt;/code&gt;显示,隐藏属性.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;显示&lt;/code&gt;意味着,在练习过程中,作为提示或者题目而直接显示在屏幕上.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;隐藏&lt;/code&gt;意味着,对应练习中的题目或者提示的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;答案&lt;/code&gt;或者其他需要背诵,记忆的内容.它不会直接显示在屏幕上,而需要进一步操作,才能查看到. 可以简单的理解为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;答案&lt;/code&gt;.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;按住想要设置的字段右边的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;拖动&lt;/code&gt;按钮,拖拽到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;隐藏&lt;/code&gt;或者&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;显示&lt;/code&gt;区域,即可.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_5.png&quot; alt=&quot;note_edit_5&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;显示区域&lt;/code&gt;中至少需要一个&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;字段&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_6.png&quot; alt=&quot;note_edit_6&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;设置完毕后,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;即可.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;从&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记管理&lt;/code&gt;编辑模式进入的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面中,设置是实时生效的,所以不需要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;按钮.设置完毕后,直接返回即可.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_edit_7.png&quot; alt=&quot;note_edit_7&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;13-添加新字段&quot;&gt;1.3. 添加新字段&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;进入到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面, 点击左下角的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加&lt;/code&gt;按钮, 弹出&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加字段&lt;/code&gt;输入框.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_field_1.png&quot; alt=&quot;note_add_field_1&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加字段&lt;/code&gt;输入框中,输入要添加的字段的名称.如这里的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;发音&lt;/code&gt;.然后点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;确认&lt;/code&gt;按钮.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_field_2.png&quot; alt=&quot;note_add_field_2&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;添加之后,可以调整各个&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;字段&lt;/code&gt;的显示属性. 最后点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;按钮即可.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_add_field_3.png&quot; alt=&quot;note_add_field_3&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;14-手动添加笔记内容&quot;&gt;1.4. 手动添加笔记内容&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;. 点击笔记本名称右边的百分比&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;进度&lt;/code&gt;文字.进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本详情&lt;/code&gt;页面.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_1.png&quot; alt=&quot;note_content_add_1&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本详细&lt;/code&gt;页面,点击想要修改的条目,进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;详细&lt;/code&gt;页面.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_2.png&quot; alt=&quot;note_content_add_2&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;详细&lt;/code&gt;页面,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑&lt;/code&gt;按钮, 切换为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;.然后点击需要修改的项目,依次修改.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_3.png&quot; alt=&quot;note_content_add_3&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_4.png&quot; alt=&quot;note_content_add_4&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;修改内容&lt;/code&gt;页面,输入详细的题目内容.输入完成后点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_5.png&quot; alt=&quot;note_content_add_5&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;所有修改的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;字段内容&lt;/code&gt;完成后,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;按钮,保存当前修改的内容到笔记本.并切换回&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;普通模式&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_6.png&quot; alt=&quot;note_content_add_6&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;点击返回按钮,回到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本详细&lt;/code&gt;页面,即可查看刚才修改的内容已经更新.当即完成对笔记本单独一条内容的修改.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_6_5.png&quot; alt=&quot;note_content_add_6_5&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;想要添加新的内容题目,可以点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;底部操作栏&lt;/code&gt;上的J&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加内容&lt;/code&gt;按钮.追加新的内容条目,然后重复上面的修改内容步骤,进行内容的填写即可.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_7.png&quot; alt=&quot;note_content_add_7&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/note_content_add_8.png&quot; alt=&quot;note_content_add_8&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;15-从csv文件导入笔记本和内容&quot;&gt;1.5. 从&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CSV&lt;/code&gt;文件导入笔记本和内容&lt;/h5&gt;
+
+&lt;h6 id=&quot;1-制作csv文件&quot;&gt;1. 制作CSV文件.&lt;/h6&gt;
+
+&lt;p&gt;​	&lt;em&gt;利用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;excel&lt;/code&gt;即可简单快速的创建&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;csv&lt;/code&gt;格式文件.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 在excel的第一行,输入想要添加的笔记的分类内容.例如:拼写, 发音,解释.
+2. 然后在各类别下填写相应的具体内容. 如下图.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/excel_1.png&quot; alt=&quot;make_from_excel&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3. 填写完想要的内容之后,可以另存为,保存格式选择 CSV 即可.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;2-导入csv文件&quot;&gt;2. 导入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CSV&lt;/code&gt;文件&lt;/h6&gt;
+
+&lt;p&gt;&lt;em&gt;导入csv文件到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WordsIn&lt;/code&gt;App,有两种方式&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;​	&lt;strong&gt;方法 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;编辑模式&lt;/code&gt;下, 在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;添加选项卡&lt;/code&gt;中,选择&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;从文件中导入&lt;/code&gt;. 然后在iPhone本地的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文件&lt;/code&gt;App中浏览选择想要添加的csv文件.选中即可.目前仅支持单个文件的添加.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/add_csv.png&quot; alt=&quot;add_csv&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;​&lt;/p&gt;
+
+&lt;p&gt;​	&lt;strong&gt;方法 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在系统的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文件&lt;/code&gt;App,或其他App中,唤醒系统的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;分享画面&lt;/code&gt;,点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WordsIn&lt;/code&gt; App的图标,分享该csv文件到这里.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/add_from_outside_1.png&quot; alt=&quot;add_from_outside&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/add_from_outside_2.png&quot; alt=&quot;add_from_outside_2&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/add_from_outside_3.png&quot; alt=&quot;add_from_outside_3&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;3-设置导入的文件&quot;&gt;3. 设置导入的文件&lt;/h6&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/image/guide/add_from_outside_7.png&quot; alt=&quot;add_from_outside_7&quot; style=&quot;zoom:33%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;导入文件之后,进入到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;笔记本管理&lt;/code&gt;页面, 查看底部&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;操作栏&lt;/code&gt;的文件状态,当有&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;待处理&lt;/code&gt;的文件时, 既可点击进入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;数据解析任务列表&lt;/code&gt;.点击相应的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文件任务&lt;/code&gt;, 进入到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;配置笔记&lt;/code&gt;页面进行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;显示&lt;/code&gt;,&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;隐藏&lt;/code&gt;属性的设置,最后点击&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;完成&lt;/code&gt;.&lt;/p&gt;</content><author><name></name></author><category term="guide" /><summary type="html">[TOC] WrodsIn使用参考</summary></entry><entry><title type="html">隐私政策(WordsIn)</title><link href="http://localhost:4000/privacy/cn" rel="alternate" type="text/html" title="隐私政策(WordsIn)" /><published>2021-05-30T17:30:00+09:00</published><updated>2021-05-30T17:30:00+09:00</updated><id>http://localhost:4000/privacy/privacy-cn</id><content type="html" xml:base="http://localhost:4000/privacy/cn">&lt;h1 id=&quot;隐私政策wordsin&quot;&gt;隐私政策(WordsIn)&lt;/h1&gt;
+
+&lt;p&gt;MarcosMang（一下简称”Mang”）在为用户提供服务时,会处理用户的个人信息。因此，根据该个人信息保护政策，我们将建立并实施个人信息保护管理系统，所有从事业务活动的工作人员将共同努力，以实现对个人信息的适当处理。&lt;/p&gt;
+
+&lt;h3 id=&quot;收集信息&quot;&gt;收集信息&lt;/h3&gt;
+&lt;p&gt;为了向所有用户提供更好的服务，目前仅通过Google Anlytics(分析)来收集用户使用信息,以及软件的性能相关信息. 并不涉及到用户个人信息或者任何用户相关的敏感信息。&lt;/p&gt;
+
+&lt;h3 id=&quot;向第三方提供个人信息&quot;&gt;向第三方提供个人信息&lt;/h3&gt;
+&lt;p&gt;在以下情况下，Mang 可能会向第三方提供个人信息。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;根据用户的指示或同意向第三方提供个人信息时。&lt;/li&gt;
+  &lt;li&gt;根据当地的方律法规的要求,而向第三方提供的情况时, 例如法院,监管机构活其他公共机构要求提供获取的信息时。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;除此之外,并不会向任何第三方提供用户的个人信息。&lt;/p&gt;
+
+&lt;h3 id=&quot;遵守法律法规国家准则和其他规范&quot;&gt;遵守法律法规，国家准则和其他规范&lt;/h3&gt;
+&lt;p&gt;我们将遵守有关处理个人信息，国家准则和附属组织准则的法律和相关法律。&lt;/p&gt;
+
+&lt;p&gt;第一版于2021年05月30日制定。&lt;/p&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">隐私政策(WordsIn)</summary></entry><entry><title type="html">隱私政策(WordsIn)</title><link href="http://localhost:4000/privacy/tc" rel="alternate" type="text/html" title="隱私政策(WordsIn)" /><published>2021-05-30T15:30:00+09:00</published><updated>2021-05-30T15:30:00+09:00</updated><id>http://localhost:4000/privacy/privacy-ct</id><content type="html" xml:base="http://localhost:4000/privacy/tc">&lt;h1 id=&quot;隱私政策wordsin&quot;&gt;隱私政策(WordsIn)&lt;/h1&gt;
+
+&lt;p&gt;MarcosMang（一下簡稱”Mang”）在為用戶提供服務時,會處理用戶的個人信息。因此，根據該個人信息保護政策，我們將建立並實施個人信息保護管理系統，所有從事業務活動的工作人員將共同努力，以實現對個人信息的適當處理。&lt;/p&gt;
+
+&lt;h4 id=&quot;21-收集信息&quot;&gt;2.1 收集信息&lt;/h4&gt;
+&lt;p&gt;為了向所有用戶提供更好的服務，目前僅通過Google Anlytics(分析)來收集用戶使用信息,以及軟件的性能相關信息. 並不涉及到用戶個人信息或者任何用戶相關的敏感信息。&lt;/p&gt;
+
+&lt;h4 id=&quot;22-向第三方提供個人信息&quot;&gt;2.2 向第三方提供個人信息&lt;/h4&gt;
+&lt;p&gt;在以下情況下，Mang 可能會向第三方提供個人信息。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;根據用戶的指示或同意向第三方提供個人信息時。&lt;/li&gt;
+  &lt;li&gt;根據當地的方律法規的要求,而向第三方提供的情況時, 例如法院,監管機構活其他公共機構要求提供獲取的信息時。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;除此之外,並不會向任何第三方提供用戶的個人信息。&lt;/p&gt;
+
+&lt;h4 id=&quot;23-遵守法律法規國家準則和其他規範&quot;&gt;2.3 遵守法律法規，國家準則和其他規範&lt;/h4&gt;
+&lt;p&gt;我們將遵守有關處理個人信息，國家準則和附屬組織準則的法律和相關法律。&lt;/p&gt;
+
+&lt;p&gt;第一版於2021年5月30日制定。&lt;/p&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">隱私政策(WordsIn)</summary></entry><entry><title type="html">Privacy Policy(WordsIn)</title><link href="http://localhost:4000/privacy/en" rel="alternate" type="text/html" title="Privacy Policy(WordsIn)" /><published>2021-05-30T15:30:00+09:00</published><updated>2021-05-30T15:30:00+09:00</updated><id>http://localhost:4000/privacy/privacy-en</id><content type="html" xml:base="http://localhost:4000/privacy/en">&lt;h1 id=&quot;privacy-policywordsin&quot;&gt;Privacy Policy(WordsIn)&lt;/h1&gt;
+
+&lt;p&gt;MarcosMang (hereinafter referred to as “Mang”) will process users’ personal information when providing services to users. Therefore, by this personal information protection policy, we will establish and implement a personal information protection management system, and all staff engaged in business activities will work together to achieve proper processing of personal information.&lt;/p&gt;
+
+&lt;h3 id=&quot;collect-information&quot;&gt;collect information&lt;/h3&gt;
+&lt;p&gt;To provide better services to all users, currently, only Google Analytics (analysis) is used to collect user usage information and software performance-related information. It does not involve user personal information or any user-related sensitive information.&lt;/p&gt;
+
+&lt;h3 id=&quot;provide-personal-information-to-third-parties&quot;&gt;Provide personal information to third parties&lt;/h3&gt;
+&lt;p&gt;In the following circumstances, Mang may provide personal information to third parties.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When providing personal information to a third party by the user’s instruction or consent.&lt;/li&gt;
+  &lt;li&gt;According to the requirements of local laws and regulations, when providing information to a third party, such as courts, regulatory agencies, or other public agencies requesting the information obtained.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Apart from the above, the user’s personal information will not be provided to any third party.&lt;/p&gt;
+
+&lt;h3 id=&quot;compliance-with-laws-and-regulations-national-guidelines-and-other-norms&quot;&gt;Compliance with laws and regulations, national guidelines, and other norms&lt;/h3&gt;
+&lt;p&gt;We will comply with the laws and related laws regarding the handling of personal information, national guid.&lt;/p&gt;
+
+&lt;p&gt;The first edition was formulated on May 30, 2021.&lt;/p&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">Privacy Policy(WordsIn)</summary></entry><entry><title type="html">個人情報保護方針(WordsIn)</title><link href="http://localhost:4000/privacy/jp" rel="alternate" type="text/html" title="個人情報保護方針(WordsIn)" /><published>2021-05-30T15:30:00+09:00</published><updated>2021-05-30T15:30:00+09:00</updated><id>http://localhost:4000/privacy/privacy-jp</id><content type="html" xml:base="http://localhost:4000/privacy/jp">&lt;h1 id=&quot;個人情報保護方針wordsin&quot;&gt;個人情報保護方針(WordsIn)&lt;/h1&gt;
+
+&lt;p&gt;MarcosMang（以下「Mang」という）は、ユーザーにサービスを提供する際にユーザーの個人情報を処理します。そのため、この個人情報保護方針に基づき、個人情報保護管理体制を構築・実施し、業務に携わるすべてのスタッフが一丸となって個人情報の適切な取り扱いを実現していきます。&lt;/p&gt;
+
+&lt;h3 id=&quot;情報を収集する&quot;&gt;情報を収集する&lt;/h3&gt;
+&lt;p&gt;すべてのユーザーにより良いサービスを提供するために、現在、ユーザーの使用情報とソフトウェアのパフォーマンス関連情報の収集にはGoogle Anlytics（分析）のみが使用されています。ユーザーの個人情報やユーザー関連の機密情報は含まれていません。&lt;/p&gt;
+
+&lt;h3 id=&quot;第三者に個人情報を提供する&quot;&gt;第三者に個人情報を提供する&lt;/h3&gt;
+&lt;p&gt;以下の場合、Mangは第三者に個人情報を提供する場合があります。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ユーザーの指示または同意に従って第三者に個人情報を提供する場合。&lt;/li&gt;
+  &lt;li&gt;現地の法律および規制の要件に従い、取得した情報を要求する裁判所、規制当局、またはその他の公的機関などの第三者に情報を提供する場合。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;上記の場合以外では、ユーザーの個人情報が第三者に提供されることはありません。&lt;/p&gt;
+
+&lt;h3 id=&quot;法規制国内ガイドラインその他の規範の遵守&quot;&gt;法規制、国内ガイドライン、その他の規範の遵守&lt;/h3&gt;
+&lt;p&gt;個人情報の取り扱いに関する法律および関連法、国内ガイドラインおよび関連組織ガイドラインを遵守します。&lt;/p&gt;
+
+&lt;p&gt;初版は2021年05月30日に開発されました。&lt;/p&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">個人情報保護方針(WordsIn)</summary></entry></feed>
